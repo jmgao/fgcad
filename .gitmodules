@@ -1,0 +1,3 @@
+[submodule "laserscad"]
+	path = laserscad
+	url = https://github.com/jmgao/laserscad.git
